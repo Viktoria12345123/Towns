@@ -5,7 +5,7 @@ Code for the Git and GitHub Exercise
 
 | Role      | Team Member |
 |-----------|-------------|
-| Editor    | none        |
+| Editor    | Tsvetoslav  |
 | Shuffler  | none        |
-| Styler    | none        |
+| Styler    | Viki        |
 
