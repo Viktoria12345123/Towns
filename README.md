@@ -6,6 +6,6 @@ Code for the Git and GitHub Exercise
 | Role      | Team Member |
 |-----------|-------------|
 | Editor    | Tsvetoslav  |
-| Shuffler  | none        |
+| Shuffler  | Blagoy      |
 | Styler    | Viki        |
 
